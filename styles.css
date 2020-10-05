@@ -70,6 +70,10 @@ form {
     overflow-y: scroll;
 }
 
+.right::scrollbar {
+    display: none;
+}
+
 h1 {
     background-color: #273941;
     width: inherit;
