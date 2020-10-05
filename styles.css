@@ -70,7 +70,7 @@ form {
     overflow-y: scroll;
 }
 
-.right::scrollbar {
+.right::-webkit-scrollbar {
     display: none;
 }
 
