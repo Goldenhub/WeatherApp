@@ -68,6 +68,8 @@ form {
 .right {
     background-color:  #273941;
     overflow-y: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none; 
 }
 
 .right::-webkit-scrollbar {
